@@ -5,7 +5,7 @@ body {
 }
 
 img {
-    
+    width: 100%;
 }
 
 header {
@@ -17,6 +17,10 @@ header {
     margin: 10px;
     padding: 10px;
     
+}
+
+.cuadro1 img { 
+   
 }
 
 .cuadro2 { 
